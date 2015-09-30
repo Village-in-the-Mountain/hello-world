@@ -1,2 +1,5 @@
 # hello-world
-My first Git Repository
+
+My first Repository on GitHub
+
+I love reading singing and programming.
